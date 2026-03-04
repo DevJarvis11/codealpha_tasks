@@ -1,2 +1,2 @@
-# codealpha_tasks
+# Codealpha_Tasks
 Code Alpha Tasks - Python Programming
